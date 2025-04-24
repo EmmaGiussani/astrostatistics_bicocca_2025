@@ -117,14 +117,15 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 13. **Apr 28, 8.30.** Room U1-10.
 - May 1, holiday.
 14. **May 5, 8.30.** Room U1-10.
-- May 8, 10.30. Davide is away for research.
+- May 8, Davide is away for research.
 15. **May 12, 8.30.** Room U1-10.
 16. **May 15, 10.30.** Room U2-05.
 17. **May 19, 8.30.** Room U1-10.
 18. **May 22, 10.30.** Room U2-05.
 19. **May 26, 8.30.** Room U1-10.
 20. **May 27, 8.30.** Room U2-05 (extra lecture).
-21. **May 29, 10.30.** Room U1-04.
+- May 29, Davide is away for research.
+21. **May 30, 8.30.** Room U2-05 (extra lecture).
 - Jun 2, holiday
 - Jun 5, 10.30. Davide is away for research
 22. Jun 9, 8.30. Room U1-10 (backup slot).
