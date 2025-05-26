@@ -132,6 +132,9 @@ Our schedule is as follows. [Here is a public calendar](https://calendar.google.
 23. Jun 10, 10.30. Room U2-05 (backup slot) 
 24. Jun 12, 10.30. Room U2-05 (backup slot)
 
+## Exams
+
+Exam guidelines are available [here](exams.md). Please read that carefully.
 
 ## Past editions
 
