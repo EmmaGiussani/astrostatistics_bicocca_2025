@@ -11,7 +11,7 @@ Exams proceed as follows:
 
 1. I will first pick one of your coding assignments and ask you to introduce it.
 2. The discussion then naturally moves on to other topics, with broader questions on the material we covered during the class.
-3. I will then ask you to pick a coding assignment of your choice (another one) and introduce it. This is up to you! You could pick the one you liked the most, the one you're most proud of, the one that is closer to your targeted research area, etc.
+3. I will then ask you to pick another coding assignment of your choice and introduce it. This is up to you! You could pick the one you liked the most, the one you're most proud of, the one that is closer to your targeted research area, etc.
 
 Each of these three parts usually lasts about 15 minutes, for a total of 45-ish minutes. 
 
@@ -33,7 +33,7 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 ### Coding problem list
 
 1. Monty Hall problem **(examinable)** [[see L02]](lectures/L02_probability.ipynb)
-2. Nasty integral *or* kicking horses **(optional, both)** [[see L03]](lectures/L03_probability.ipynb)
+2. Nasty integral; kicking horses **(optional, both)** [[see L03]](lectures/L03_probability.ipynb)
 3. Cloning quasars **(optional)** [[see L04]](lectures/L04_probability.ipynb)
 4. Position of a star **(examinable)** [[see L05]](lectures/L05_frequentist.ipynb)
 5. Black-hole binary formation channels **(examinable)** [[see L06]](lectures/L06_frequentist.ipynb)
@@ -45,10 +45,10 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 11. Gamma ray bursts **(examinable)**  [[see L14]](lectures/L14_clustering.ipynb)
 12. HR diagram, part 1 **(examinable)** and part 2 **(optional)** [[see L15]](lectures/L15_dimensionality.ipynb)
 13. Supernova distances and redshifts, *part 1* **(examinable)** [[see L17]](lectures/L17_regression.ipynb)
-14. Supernova distances and redshifts, part 2 (*covered in class*) and part 3 (*to be completed at home*) **(examinable, both)**  [[see L18]](lectures/L18_regression.ipynb)
+14. Supernova distances and redshifts, part 2 **(examinable)** and part 3 **(examinable)** [[see L18]](lectures/L18_regression.ipynb)
 15. SDSS galaxies vs quasars, part 1 **(examinable)** [[see L19]](lectures/L19_classification.ipynb); 
 16. Gravitational-wave detectability, part 1 **(one examinable)** [[see L20]](lectures/L20_classification.ipynb)
-17. Tensorflow playground **(optional, I won't ask this)** [[see L21]](lectures/L21_deeplearning.ipynb)
+17. Tensorflow playground **(optional)** [[see L21]](lectures/L21_deeplearning.ipynb)
 18. SDSS galaxies vs quasars, part 2 *or* Gravitational-wave detectability, part 2 *or* HiggsML challenge **(one examinable, the others are optional, your choice)** [[see L22]](lectures/L22_deeplearning.ipynb)
 
 
